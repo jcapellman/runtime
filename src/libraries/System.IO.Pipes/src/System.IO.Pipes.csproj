@@ -13,6 +13,7 @@
     <Compile Include="System\IO\Pipes\AnonymousPipeServerStream.cs" />
     <Compile Include="System\IO\Pipes\NamedPipeClientStream.cs" />
     <Compile Include="System\IO\Pipes\NamedPipeServerStream.cs" />
+    <Compile Include="System\IO\Pipes\NamePipeServerStreamAcl.cs" />
     <Compile Include="System\IO\Pipes\PipeDirection.cs" />
     <Compile Include="System\IO\Pipes\PipeOptions.cs" />
     <Compile Include="System\IO\Pipes\PipeState.cs" />
